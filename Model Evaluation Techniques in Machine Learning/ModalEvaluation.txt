@@ -1,0 +1,13 @@
+#Mastering Model Evaluation.
+
+(1) Sklearn Matrix 
+-> Master the use of "sklearn.matrix" for comprehansive model evaluation.
+
+(2) Regression Matrix
+-> Learn to evaluate Regression model using MAE,MSE and RMSE.
+
+(3) Confusion Matrix 
+-> Understand how to use Confusion matrix to analyze a model performance.
+
+(4) Classification Matrix.
+-> Learn to evaluate Classification models using accuracy,precision,recall and F1-Score.
