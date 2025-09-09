@@ -1,0 +1,2 @@
+<b>Model Evaluation Techniques in Machine Learning (Regression & Classification Metrics)</b>
+This repository contains detailed notes and Python code examples for evaluating machine learning models.<br> It covers key metrics like MAE, MSE, RMSE for regression problems, and confusion matrix, accuracy, precision, recall, and <br>F1-score for classification tasks. Designed for beginners to understand model performance analysis with <br>real examples.
